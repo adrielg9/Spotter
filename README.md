@@ -53,16 +53,20 @@ El sistema implementa una arquitectura por capas (N-Tier) diseñada bajo princip
    Bash
    python main.py
 
-👥 Equipo de Desarrollo
+---
+
+## 👥 Equipo de Desarrollo
+
 Este proyecto es una colaboración interdisciplinaria enfocada en soluciones de gestión:
 
-    Adriel Fernando Gallego
-        Arquitectura de Software, Backend & Gestión de Base de Datos
-        https://github.com/adrielg9
+- **Adriel Fernando Gallego**
+  - Arquitectura de Software, Backend & Gestión de Base de Datos
+  - [GitHub Profile](https://github.com/adrielg9)
 
-    Facundo Torres
-        Diseño de Interfaz Gráfica (UI/UX) & Estética Visual con Flet
-        https://www.linkedin.com/in/facundosebastiantorres/
+- **Facundo Torres**
+  - Diseño de Interfaz Gráfica (UI/UX) & Estética Visual con Flet
+  - [LinkedIn Profile](https://www.linkedin.com/in/facundosebastiantorres/)
 
-📜 Licencia
-Este proyecto se distribuye bajo la licencia MIT.
+## 📜 Licencia
+
+Este proyecto se distribuye bajo la licencia **MIT**.
