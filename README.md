@@ -63,7 +63,7 @@ Este proyecto es una colaboración interdisciplinaria enfocada en soluciones de 
   - Arquitectura de Software, Backend & Gestión de Base de Datos
   - [GitHub Profile](https://github.com/adrielg9)
 
-- **Facundo Torres**
+- **Facundo Sebastián Torres**
   - Diseño de Interfaz Gráfica (UI/UX) & Estética Visual con Flet
   - [LinkedIn Profile](https://www.linkedin.com/in/facundosebastiantorres/)
 
